@@ -2,7 +2,7 @@
 
   **l'auteur** la putain merde 
   
-  *par example*
+  *par exemple*
   
   ***L'exemple d'une formulation***
   
