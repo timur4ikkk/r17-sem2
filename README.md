@@ -6,7 +6,7 @@
   
   ***L'exemple d'une formule***
   
-  p^2 = \sum_{i=0}^{\infty}(-1)^i\cdot S_i^2
+ \begin{foo} p^2 = \sum_{i=0}^{\infty}(-1)^i\cdot S_i^2 \end{foo}
   ### L'exemple d'une liste
   * Un
   * Deux
